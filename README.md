@@ -11,5 +11,5 @@ Uses head tags to improve visibility and SEO.
 
 ## Acknowledgments
 
-* This website was developed using the template Paradigm Shift [ajlkn](https://aj.lkn.io/)
+* This website was developed using the template Paradigm Shift by [ajlkn](https://aj.lkn.io/)
 * This and more templates can be found at [HTML5 UP](https://html5up.net)
